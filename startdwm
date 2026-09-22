@@ -1,0 +1,8 @@
+#!/bin/sh
+
+$HOME/.fehbg &
+sxhkd &
+xrdb ~/.xresources &
+slstatus &
+
+exec dwm
