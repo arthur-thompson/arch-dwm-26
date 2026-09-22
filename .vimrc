@@ -12,7 +12,7 @@ set wildmode=longest:full
 set undofile
 set mouse=a
 set clipboard=unnamedplus
-source /usr/share/doc/fzf/examples/fzf.vim
+source /usr/share/vim/vim files/plugin/fzf.vim
 
 "Install vimplug if its not already and specify plugins
 let data_dir = has('nvim') ? stdpath('data') . '/site' : '~/.vim'
