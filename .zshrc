@@ -14,7 +14,7 @@ promptinit
 
 prompt adam1
 
-source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 export EDITOR=vim
 export VISUAL=vim
